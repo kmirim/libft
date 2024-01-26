@@ -3,4 +3,4 @@
   <img loading="lazy" src="https://img.shields.io/static/v1?label=Status&message=concluded&color=7159c1&style=for-the-badge&logo=ghost"/>
 </p>
 
-<h3 align="center">Compilation Process and Dynamic & Static Libraries </h3>
+<h3 align="center"> Compilation Process and Dynamic & Static Libraries </h3>
